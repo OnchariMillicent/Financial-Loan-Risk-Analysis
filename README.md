@@ -1,7 +1,5 @@
-# Financial-Loan-Risk-Analysis
-End-to-end financial loan risk analysis using EDA, machine learning, and deep learning to analyze borrower risk and loan approval outcomes.
-
 # Financial Loan Approval Prediction & Risk Analysis
+End-to-end financial loan risk analysis using EDA, machine learning, and deep learning to analyze borrower risk and loan approval outcomes.
 
 ## Project Overview
 
@@ -65,7 +63,7 @@ The dataset includes variables relating to:
 - **Loan characteristics:** Loan amount, duration, interest rates, and loan purpose.
 - **Existing financial obligations:** Monthly debt payments and debt-to-income measures.
 
-*Dataset source and licensing information should be added here using the verified original source.*
+**Dataset source:** Kaggle- Financial Loan Data 
 
 ## Analytical Workflow
 
